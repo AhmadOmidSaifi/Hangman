@@ -1,5 +1,5 @@
 # Hangman
-A simple and fun command-line Hangman game written in Python. Guess the hidden word one letter at a time before you run out of chances!
+A simple and fun command-line Hangman game written in Python. Guess the hidden word one letter at a time before you run out of chances!!
 
 ---
 
