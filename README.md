@@ -25,7 +25,7 @@ A simple and fun command-line Hangman game written in Python. Guess the hidden w
 
 ```bash
 git clone https://github.com/AhmadOmidSaifi/hangman.git
-cd hangman-cli
+cd hangman
 
 Replace `yourusername` in the GitHub URL with your actual GitHub username, and feel free to modify the “Future Improvements” section based on your own plans.
 
